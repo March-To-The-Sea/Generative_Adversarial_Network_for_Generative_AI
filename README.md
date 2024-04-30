@@ -1,1 +1,1 @@
-# Dune_Analytics_2
+# Generative Adversarial Network for Generative AI
